@@ -1,0 +1,24 @@
+Delivery Orange nodes 
+Delivery Id 2 
+No of Deliveries:11
+*Delivery number 2 co-ordinates are*
+                          Delivery Co-ordinates
+Delivery number(node)     X               Y               
+1                         -2               0               
+2                         0               -2               
+3                         2               -2               
+4                         3               1               
+5                         6               2               
+6                         6               6               
+7                         2               6               
+8                         -5               4               
+9                         -5               1               
+10                         -3               -5               
+11                         6               -4               
+
+Boxes on van:11 (1 Box per delivery)Each box has 2 meals inside
+Goods on Van     Delivery ID     Boxes on Van     Product QTY
+Protein Meal       2                    4                 2
+Weight Meal       2                    4                 2
+Health Meal       2                    3                 2
+                  Total                11                22

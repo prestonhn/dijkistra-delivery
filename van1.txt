@@ -1,0 +1,26 @@
+Delivery Green nodes 
+Delivery Id 1 
+No of Deliveries:13
+*Delivery number 1 co-ordinates are*
+                          Delivery Co-ordinates
+Delivery number(node)     X               Y               
+1                         1               1               
+2                         2               0               
+3                         4               -2               
+4                         2               -3               
+5                         0               -5               
+6                         -2               -3               
+7                         -3               -1               
+8                         -5               -1               
+9                         -3               2               
+10                         0               4               
+11                         4               4               
+12                         7               3               
+13                         -4               6               
+
+Boxes on van:13 (1 Box per delivery)Each box has 2 meals inside
+Goods on Van     Delivery ID     Boxes on Van     Product QTY
+Protein Meal       1                    5                 2
+Weight Meal       1                    5                 2
+Health Meal       1                    3                 2
+                  Total                13                26
