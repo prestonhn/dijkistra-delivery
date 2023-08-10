@@ -1,6 +1,6 @@
 # Box Delivery Using Dijstra Algoirthm
 
-Python-based delivery optimization system for vans delivering boxes to designated coordinates. Uses Dijkstra’s algorithm for route optimization.![image](https://github.com/prestonhn/dijkistra-delivery/assets/115035632/8f1f22c0-75e8-434f-93ac-0f7336fc1d6c)
+Python-based delivery optimization system for vans delivering boxes to designated coordinates. Uses Dijkstra’s algorithm for route optimization.
 
 # Summary: 
 
